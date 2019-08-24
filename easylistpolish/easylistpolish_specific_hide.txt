@@ -691,6 +691,7 @@ gryfickie.info,swinoujskie.info##.e3lan
 terazgrodkow24.pl##.e3lan-below_header
 infoprzasnysz.com,terazgrodkow24.pl##.e3lan-top
 gazeta.pl##.ecom_slot
+party.pl##.ecomm-zalando
 kiwiportal.pl##.eventAd
 targikielce.pl##.event_page_left_sub_ads_banner
 sniadaniezkadra.onet.pl##.evp-row
