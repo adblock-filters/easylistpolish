@@ -1843,6 +1843,7 @@ _reklamy_$domain=chojna24.pl
 ||zd24.pl^*^Jesienna-zaduma-
 ||zd24.pl^*^mapa%20polski.
 ||zdrowieiuroda.gwarek.com.pl^*^klub-mam-1.
+||zdrowybialystok.pl^*^reklamy*/
 ||zegarkiclub.pl^*^chronos_180x130_
 ||zegarkiclub.pl^*^epos_tarcza.
 ||zegarkiclub.pl^*^watchworld.
