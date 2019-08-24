@@ -367,6 +367,7 @@ _reklamy_$domain=chojna24.pl
 ||eduson.pl^*-reklama-panel^
 ||efilmy.tv/adsvid^
 ||egnatius-ear.com^$domain=sadistic.pl
+||egospodarka.pl^*^finiata.
 ||ekologia.pl/pasaz/widget-
 ||ekologia.pl/pasaz/widget.
 ||ekorodzice.pl/_js/a_d
