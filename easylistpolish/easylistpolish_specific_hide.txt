@@ -1025,7 +1025,7 @@ elektroda.pl##.wrap-logo-ti
 polityka.pl##.wtg_adslot
 zdrowieiuroda.gwarek.com.pl##.xxx_pos_1
 poradnikhandlowca.com.pl##.yReklamy
-polki.pl,viva.pl,wizaz.pl##.zalando-placeholder
+party.pl,polki.pl,viva.pl,wizaz.pl##.zalando-placeholder
 eska.pl##.zpr_top_1
 zumi.pl##.zumi-ads-top
 zamkipolskie.com##A[href="http://www.ChataAleLipa.pl"]
