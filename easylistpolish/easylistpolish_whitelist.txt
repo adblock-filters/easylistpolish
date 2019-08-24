@@ -46,6 +46,7 @@
 @@||konkurs24h.pl^*^advalue_
 @@||korso.pl^*^lko327a.
 @@||legitymizm.org^*^gabis-
+@@||lokalna24.pl^*^LOKALNA24_logo_
 @@||lubliniec.info^*^miejsce-wolne-
 @@||market.bia24.pl/R2|
 @@||maszwolne.pl^*^pages/mini^

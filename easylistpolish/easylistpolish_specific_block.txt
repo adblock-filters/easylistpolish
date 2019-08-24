@@ -123,6 +123,7 @@
 ^widgets^$domain=karpacz24.pl
 ^wordwwwpunkty.$domain=7dni.pila.pl
 ^wsst23_$domain=pl.delfi.lt
+^wysiwig^$domain=lokalna24.pl|korso.pl
 _940x100px.$domain=tygodnik-rolniczy.pl
 _940x300.$domain=polishexpress.co.uk
 _adv_$domain=chillitorun.pl
@@ -829,7 +830,6 @@ _reklamy_$domain=chojna24.pl
 ||konkursykreatywne.pl^*^2-slaska_Ap-1.
 ||korex.net.pl^*^adsrotator^
 ||korso.pl^*^developres330x200.
-||korso.pl^*^wysiwig^
 ||korso.pl^*_330_125.
 ||korso.pl^*_330_125a.
 ||korsokolbuszowskie.pl^*^ban_
@@ -1634,6 +1634,7 @@ _reklamy_$domain=chojna24.pl
 ||thinkapple.pl^*^300x300-
 ||thinkapple.pl^*^mpFaktura_
 ||thinkapple.pl^*_336x600.
+||tipmedia.pl^$subdocument,domain=lokalna24.pl
 ||tkn24.pl^*^awansgif.
 ||tkn24.pl^*^Dachbud.gif
 ||tkn24.pl^*^Dysz%C3%B3w.
