@@ -1558,3 +1558,4 @@ se.pl##div[class^="zpr_inside"]
 zdrowybialystok.pl##.banneritem
 nieruchomoscipodlaskie.pl##.banner
 kramik.pl##a[href^="/glowna/reklama/"] > img
+forum.bitcoin.pl##.ads
