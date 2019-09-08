@@ -1995,3 +1995,4 @@ _reklamy_$domain=chojna24.pl
 ^banner_$domain=podlaskieagro.pl
 ||kantorywalut.pl^*^ik_sdb.
 ||kryptoportal.pl^*^coinbase.
+||kucharze.pl^*^BFS-pepitki-baner-
