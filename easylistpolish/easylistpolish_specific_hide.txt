@@ -1580,3 +1580,4 @@ centrumdruku3d.pl##a[onclick*="'Banners'"]
 elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > img)
 elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > picture)
 lublin112.pl###firmy-box-inner
+ckinfo.pl##A[href^="https://www.dekoran.pl"]
