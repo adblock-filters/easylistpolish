@@ -2014,3 +2014,4 @@ _reklamy_$domain=chojna24.pl
 ||nevicom.pl/banery^$image,domain=obud.pl|chemiabudowlana.info
 ||chemiabudowlana.info^*^25-kreisel-250.
 ||ok24.tv^*^06/lasvegan.
+||wp.com/okraglemiasto.pl^*^osrodek_lipiny.
