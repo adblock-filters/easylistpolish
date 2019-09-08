@@ -2000,3 +2000,4 @@ _reklamy_$domain=chojna24.pl
 ||polskibiznes.info^*-300x300.
 ||lwowecki.info^*^03/dietetyk.
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
+||piotrkowski24.pl^*^baner-OSKP-
