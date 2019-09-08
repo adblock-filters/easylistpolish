@@ -2017,3 +2017,4 @@ _reklamy_$domain=chojna24.pl
 ||wp.com/okraglemiasto.pl^*^osrodek_lipiny.
 ||okraglemiasto.pl^*^pido-sklep-
 ||gazetaprawna.pl^*^4217123-finces.
+||elektroda.pl^*^bto.
