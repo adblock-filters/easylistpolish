@@ -1999,3 +1999,4 @@ _reklamy_$domain=chojna24.pl
 ||oto-samochody.pl^*^autoswiat.
 ||polskibiznes.info^*-300x300.
 ||lwowecki.info^*^03/dietetyk.
+||placpigal.pl^*^matchbanker-photo_logo_opt.
