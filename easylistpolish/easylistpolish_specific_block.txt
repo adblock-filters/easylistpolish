@@ -2003,3 +2003,4 @@ _reklamy_$domain=chojna24.pl
 ||piotrkowski24.pl^*^baner-OSKP-
 ||rowery.org^*^baner-danielo19.
 ||sts.pl^$subdocument,domain=pilkarskieforum.com
+||glos.live^*^owieczka_reklama.
