@@ -2001,3 +2001,4 @@ _reklamy_$domain=chojna24.pl
 ||lwowecki.info^*^03/dietetyk.
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ||piotrkowski24.pl^*^baner-OSKP-
+||rowery.org^*^baner-danielo19.
