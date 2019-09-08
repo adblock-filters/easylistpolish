@@ -1992,3 +1992,4 @@ _reklamy_$domain=chojna24.pl
 ||egospodarka.pl^*^finiata.
 ||tipmedia.pl^$subdocument,domain=lokalna24.pl
 ||zdrowybialystok.pl^*^reklamy*/
+^banner_$domain=podlaskieagro.pl
