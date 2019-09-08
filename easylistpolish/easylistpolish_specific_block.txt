@@ -1996,3 +1996,4 @@ _reklamy_$domain=chojna24.pl
 ||kantorywalut.pl^*^ik_sdb.
 ||kryptoportal.pl^*^coinbase.
 ||kucharze.pl^*^BFS-pepitki-baner-
+||oto-samochody.pl^*^autoswiat.
