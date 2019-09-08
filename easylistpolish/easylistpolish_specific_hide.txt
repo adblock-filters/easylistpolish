@@ -1611,3 +1611,5 @@ ckinfo.pl##A[href^="https://www.dekoran.pl"]
 b24tv.pl###metaslider_container_5028
 b24tv.pl###metaslider_container_5680
 anywhere.pl##.gofollow
+lublin112.pl###firmy-box-inner
+ckinfo.pl##A[href^="https://www.dekoran.pl"]
