@@ -2016,3 +2016,4 @@ _reklamy_$domain=chojna24.pl
 ||ok24.tv^*^06/lasvegan.
 ||wp.com/okraglemiasto.pl^*^osrodek_lipiny.
 ||okraglemiasto.pl^*^pido-sklep-
+||gazetaprawna.pl^*^4217123-finces.
