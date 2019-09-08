@@ -1581,3 +1581,4 @@ elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > im
 elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > picture)
 new-test-line
 lublin112.pl###firmy-box-inner
+lublin112.pl###firmy-box-inner
