@@ -2002,3 +2002,4 @@ _reklamy_$domain=chojna24.pl
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ||piotrkowski24.pl^*^baner-OSKP-
 ||rowery.org^*^baner-danielo19.
+||sts.pl^$subdocument,domain=pilkarskieforum.com
