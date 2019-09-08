@@ -1605,3 +1605,6 @@ trakt.tv##a[href^="/vip/ads"] + div
 zegarkiipasja.pl#?#:-abp-has(> .ad-event-label + a:not([href^="https://zegarkiipasja.pl"]))
 centrumdruku3d.pl##a[onclick*="'Banners'"] + div
 centrumdruku3d.pl##a[href*="&utm_campaign"] > img
+lublin112.pl###firmy-box-inner
+lublin112.pl###firmy-box-inner
+ckinfo.pl##A[href^="https://www.dekoran.pl"]
