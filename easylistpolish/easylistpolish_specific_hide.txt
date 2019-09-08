@@ -1583,3 +1583,4 @@ lublin112.pl###firmy-box-inner
 ckinfo.pl##A[href^="https://www.dekoran.pl"]
 b24tv.pl###metaslider_container_5028
 anywhere.pl##.gofollow
+anywhere.pl##a[href^="https://www.aparthotel"]
