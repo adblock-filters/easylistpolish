@@ -1990,3 +1990,4 @@ _reklamy_$domain=chojna24.pl
 ||elektroda.pl^*^bto.
 ||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
 ||egospodarka.pl^*^finiata.
+||tipmedia.pl^$subdocument,domain=lokalna24.pl
