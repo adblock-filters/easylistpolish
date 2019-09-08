@@ -1582,3 +1582,4 @@ elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > pi
 new-test-line
 lublin112.pl###firmy-box-inner
 lublin112.pl###firmy-box-inner
+ckinfo.pl##A[href^="https://www.dekoran.pl"]
