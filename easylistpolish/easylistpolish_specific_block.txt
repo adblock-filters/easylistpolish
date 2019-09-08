@@ -1993,3 +1993,4 @@ _reklamy_$domain=chojna24.pl
 ||tipmedia.pl^$subdocument,domain=lokalna24.pl
 ||zdrowybialystok.pl^*^reklamy*/
 ^banner_$domain=podlaskieagro.pl
+||kantorywalut.pl^*^ik_sdb.
