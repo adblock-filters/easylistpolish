@@ -2004,3 +2004,4 @@ _reklamy_$domain=chojna24.pl
 ||rowery.org^*^baner-danielo19.
 ||sts.pl^$subdocument,domain=pilkarskieforum.com
 ||glos.live^*^owieczka_reklama.
+||gwint24.pl^*_750x200.
