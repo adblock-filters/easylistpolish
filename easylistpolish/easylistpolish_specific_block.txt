@@ -1988,3 +1988,4 @@ _reklamy_$domain=chojna24.pl
 ||gazetaprawna.pl^*^4217123-finces.
 ||centrumdruku3d.pl^*^3DG_
 ||elektroda.pl^*^bto.
+||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
