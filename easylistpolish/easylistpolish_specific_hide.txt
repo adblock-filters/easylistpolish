@@ -1588,3 +1588,4 @@ pless.pl,czecho.pl,bielsko.info##.baner-row
 party.pl##.zalando-placeholder
 party.pl##.ecomm-zalando
 cooltura24.co.uk##a[href^="https://www.xoom.com?"]
+nieruchomoscipodlaskie.pl##.banner
