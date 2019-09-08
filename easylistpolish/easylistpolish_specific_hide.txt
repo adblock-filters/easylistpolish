@@ -1595,3 +1595,4 @@ kryptoportal.pl##a[href^="https://flyingatom."]
 kryptoportal.pl,kryptonotowania.pl##.losowanko
 pepe-tv.eu###custom_html-2
 q4.pl##.advCounterAjax
+goal.pl,primeradivision.pl,ligapolska.pl,seriea.pl,eredivisie.pl#?#.rectangle:-abp-has(> .reklamaNapis + center)
