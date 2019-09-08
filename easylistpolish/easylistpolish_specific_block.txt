@@ -1998,3 +1998,4 @@ _reklamy_$domain=chojna24.pl
 ||kucharze.pl^*^BFS-pepitki-baner-
 ||oto-samochody.pl^*^autoswiat.
 ||polskibiznes.info^*-300x300.
+||lwowecki.info^*^03/dietetyk.
