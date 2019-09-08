@@ -1590,3 +1590,4 @@ party.pl##.ecomm-zalando
 cooltura24.co.uk##a[href^="https://www.xoom.com?"]
 nieruchomoscipodlaskie.pl##.banner
 kramik.pl##a[href^="/glowna/reklama/"] > img
+forum.bitcoin.pl##.ads
