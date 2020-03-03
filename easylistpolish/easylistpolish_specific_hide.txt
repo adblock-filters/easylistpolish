@@ -1212,3 +1212,5 @@ progressforpoland.org##.td_block_single_image
 prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop
 futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
+bolec.info##img[height="100"][width="250"]
+bolec.info##img[style*="max-height: 400px; min-width: 1000px;"]
